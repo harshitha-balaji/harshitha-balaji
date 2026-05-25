@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Harshitha! 👋
 
-<!--
-**harshitha-balaji/harshitha-balaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a B.Tech student in Data Science and Engineering at IIT Palakkad. I love bridging the gap between mathematical analysis, software development, and intelligent computing, with a strong interest in space technology and geospatial data analysis.
 
-Here are some ideas to get you started:
+### 🛠️ Core Tech Stack
+- **Languages:** Python, SQL, C++
+- **Data Science & NLP:** spaCy, VADER, NumPy, Pandas, Hugging Face Transformers
+- **Hardware/Tools:** Git, GitHub, Jupyter Notebooks, Raspberry Pi Pico 2, ESP32, Microcontrollers
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 Current Focus & Interests
+- **Natural Language Processing:** Targeted sentiment analysis and entity tracking.
+- **Space & Geospatial Tech:** Exploring the applications of data science, scientific computing, and numerical analysis in rocketry, ground stations, and geospatial analytics.
+
+### 📬 Connect with me
+- **Email:** harshithabalaji07@gmail.com
