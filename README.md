@@ -11,7 +11,7 @@ I build projects across a deliberate hierarchy — each level has a specific pur
 | Level | Definition | Projects |
 |-------|-----------|---------|
 | **Engine** | A larger integrated system with decoupled architectural layers, domain-aware configuration, and multi-stage logic | SSE, GGE, EOE |
-| **Pipeline** | A domain-agnostic, reusable workflow that can be pointed at any valid input and produces consistent output | RRP |
+| **Pipeline** | A domain-agnostic, reusable workflow that can be pointed at any valid input and produces consistent output | SLP |
 
 Every project in this portfolio is config-driven — operational parameters, domain profiles, and thresholds live in external JSON files, keeping the core logic static and redeployable across contexts.
 
