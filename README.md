@@ -1,8 +1,9 @@
 # Hi, I'm Harshitha Balaji 👋
 
 **Data Science & Engineering Student @ IIT Palakkad**
-**Deputy Technical Secretary | Earth Observation & Geospatial AI**
+**Deputy Technical Secretary @ IIT Palakkad**
 
+**Earth Observation • Geospatial AI • Planetary Intelligence**
 I'm interested in building modular intelligence systems that sit at the intersection of machine learning, computer vision, NLP, geospatial analytics, and Earth observation.
 
 My projects follow a deliberate progression:
