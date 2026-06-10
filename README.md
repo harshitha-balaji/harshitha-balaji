@@ -1,41 +1,75 @@
-# Hi there, I'm Harshitha! 👋
+# Hi, I'm Harshitha Balaji 👋
 
-I'm a B.Tech student in Data Science and Engineering at IIT Palakkad, building config-driven, reusable data science tools across NLP, computer vision, and geospatial analysis — with a strong interest in space technology and earth observation.
+**Data Science & Engineering Student @ IIT Palakkad**
+**Deputy Technical Secretary | Earth Observation & Geospatial AI**
 
----
+I'm interested in building modular intelligence systems that sit at the intersection of machine learning, computer vision, NLP, geospatial analytics, and Earth observation.
 
-## 🏗️ Portfolio Architecture
+My projects follow a deliberate progression:
 
-I build projects across a deliberate hierarchy — each level has a specific purpose:
+**Model → Pipeline → Engine → Platform**
 
-| Level | Definition | Projects |
-|-------|-----------|---------|
-| **Engine** | A larger integrated system with decoupled architectural layers, domain-aware configuration, and multi-stage logic | SSE, GGE, EOE |
-| **Pipeline** | A domain-agnostic, reusable workflow that can be pointed at any valid input and produces consistent output | SLP |
-
-Every project in this portfolio is config-driven — operational parameters, domain profiles, and thresholds live in external JSON files, keeping the core logic static and redeployable across contexts.
+Rather than building one-off solutions, I focus on creating reusable, configurable systems that can be adapted across domains while remaining explainable and modular by design.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛰️ Earth Observation Platform Foundation Layer
 
-**Languages:** Python, SQL
+A collection of reusable intelligence engines that explore machine learning, NLP, computer vision, and geospatial analytics through configurable, domain-aware architectures.
 
-**Data Science, NLP & CV:** spaCy, NLTK VADER, OpenCV, NumPy, Pandas, scikit-learn, Matplotlib
+### ⚙️ Supervised Learning Pipelines (SLP)
+Dataset-agnostic supervised learning suite for regression and classification workflows. Built around reusable preprocessing, cross-validation, model serialization, and live inference pipelines.
 
-**Geospatial & Remote Sensing:** odc-stac, pystac-client, Folium, geopy, AWS STAC Catalog
+### 🎭 Sarcasm Sentiment Engine (SSE)
+Entity-aware NLP engine that tracks targets through news text, resolves contextual references, detects sarcasm, and produces explainable sentiment evidence reports.
 
-**Tools:** Git, GitHub, Jupyter Notebook, joblib
+### 🎯 Geometric Gatekeeper Engine (GGE)
+Classical computer vision tracking engine that performs foreground extraction, identity persistence, and directional counting through geometric tracking and hysteresis gating.
+
+### 🛰️ Earth Observation Platform (EOP)
+Cloud-native Earth observation platform that combines natural language querying, Sentinel-2 satellite imagery, spectral analytics, and unsupervised computer vision classification to make geospatial analysis accessible without GIS expertise.
 
 ---
 
-## 🔬 Current Focus
+## 🌍 Current Direction: Planetary Surface Intelligence
 
-- **Machine Learning** — building reusable supervised learning pipelines and integrating ML models into existing geospatial systems
-- **Earth Observation** — expanding the EOE platform with cloud detection, NLP query interfaces, and automated change reports
+### 🚧 Crater Detection Engine (CDE)
+Currently developing a deep learning engine for autonomous crater detection on Mars CTX orbital imagery.
+
+CDE serves as the entry point into a broader long-term vision focused on planetary surface understanding, terrain intelligence, and autonomous analysis of extraterrestrial environments.
 
 ---
 
-## 📬 Connect
+## 🔬 Areas of Interest
 
-📧 harshithabalaji07@gmail.com
+- Geospatial AI
+- Earth Observation
+- Remote Sensing
+- Computer Vision
+- NLP Systems
+- Planetary Surface Intelligence
+- Config-Driven Software Architecture
+
+---
+
+## 🏛️ Leadership & Campus Involvement
+
+- Deputy Technical Secretary — IIT Palakkad
+- Rocketry Club — Ground Station Team
+- Class Representative
+
+---
+
+## 🤝 Open To
+
+Internships, research opportunities, and collaborations in:
+
+- Geospatial AI
+- Earth Observation
+- Remote Sensing
+- Space Data & Planetary Science
+- Applied Machine Learning
+
+---
+
+*"Building domain-aware intelligence systems — because understanding the data matters as much as processing it."*
