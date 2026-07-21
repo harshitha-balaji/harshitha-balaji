@@ -3,75 +3,52 @@
 **Data Science & Engineering Student @ IIT Palakkad**  
 **Deputy Technical Secretary @ IIT Palakkad**
 
-*Earth Observation • Geospatial AI • Planetary Intelligence*
+*Earth Observation • Robotics • Computer Vision*
 
-I'm interested in building modular intelligence systems that sit at the intersection of machine learning, computer vision, NLP, geospatial analytics, and Earth observation.
-
-My projects follow a deliberate progression:
-
-**Model → Pipeline → Engine → Platform**
-
-Rather than building one-off solutions, I focus on creating reusable, configurable systems that can be adapted across domains while remaining explainable and modular by design.
+I'm interested in building software for Earth observation, robotics, computer vision, and machine learning. I enjoy exploring different approaches to solving engineering problems, with a focus on modular, reusable, and practical systems.
 
 ---
 
-## 🛰️ Earth Observation Platform Foundation Layer
+## 🚀 Featured Projects
 
-A collection of reusable intelligence engines that explore machine learning, NLP, computer vision, and geospatial analytics through configurable, domain-aware architectures.
+### 🌿 IRIS
+An interactive remote sensing application for computing, visualizing, and exploring spectral indices from Sentinel-2 satellite imagery.
 
-### ⚙️ Supervised Learning Pipelines (SLP)
-Dataset-agnostic supervised learning suite for regression and classification workflows. Built around reusable preprocessing, cross-validation, model serialization, and live inference pipelines.
+### 🤖 LUCA
+A desktop application for robotic arm control with integrated computer vision and modular hardware interfaces.
+
+### 🎙️ Acoustic Activity Engine (AAE)
+A rule-based audio analysis pipeline for speaker activity tracking using acoustic feature matching.
 
 ### 🎭 Sarcasm Sentiment Engine (SSE)
-Entity-aware NLP engine that tracks targets through news text, resolves contextual references, detects sarcasm, and produces explainable sentiment evidence reports.
+A rule-based NLP pipeline for entity-focused sentiment analysis using heuristic coreference and sarcasm detection.
 
 ### 🎯 Geometric Gatekeeper Engine (GGE)
-Classical computer vision tracking engine that performs foreground extraction, identity persistence, and directional counting through geometric tracking and hysteresis gating.
-
-### 🛰️ Earth Observation Platform (EOP)
-Cloud-native Earth observation platform that combines natural language querying, Sentinel-2 satellite imagery, spectral analytics, and unsupervised computer vision classification to make geospatial analysis accessible without GIS expertise.
+A rule-based computer vision pipeline for object tracking and directional counting.
 
 ---
 
-## 🌍 Current Direction: Planetary Surface Intelligence
+## 🌱 Interests
 
-### 🚧 Crater Detection Engine (CDE)
-Currently developing a deep learning engine for autonomous crater detection on Mars CTX orbital imagery.
-
-CDE serves as the entry point into a broader long-term vision focused on planetary surface understanding, terrain intelligence, and autonomous analysis of extraterrestrial environments.
-
----
-
-## 🔬 Areas of Interest
-
-- Geospatial AI
 - Earth Observation
 - Remote Sensing
+- Geospatial AI
+- Robotics
 - Computer Vision
-- NLP Systems
-- Planetary Surface Intelligence
-- Config-Driven Software Architecture
-
----
-
-## 🏛️ Leadership & Campus Involvement
-
-- Deputy Technical Secretary — IIT Palakkad
-- Rocketry Club — Ground Station Team
-- Class Representative
+- Machine Learning
 
 ---
 
 ## 🤝 Open To
 
-Internships, research opportunities, and collaborations in:
+I'm always happy to connect with people interested in:
 
+- Earth Observation & Remote Sensing
+- Robotics & Computer Vision
 - Geospatial AI
-- Earth Observation
-- Remote Sensing
-- Space Data & Planetary Science
 - Applied Machine Learning
+- Research and Engineering Projects
 
 ---
 
-*"Building domain-aware intelligence systems — because understanding the data matters as much as processing it."*
+*"Always learning, always building."*
