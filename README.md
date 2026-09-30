@@ -15,7 +15,7 @@ I'm interested in building practical software systems at the intersection of **d
 
 A modular Earth observation application for exploring and analyzing **Sentinel-2 satellite imagery** through natural language. IRIS integrates satellite imagery retrieval, spectral index computation, temporal change analysis, and interactive geospatial visualization.
 
-**Python • Sentinel-2 • STAC • Remote Sensing • Geospatial Analysis**
+**Python • Sentinel-2 • STAC • SpaCy**
 
 ### LUCA — Lightweight Unified Controller Assistant
 
