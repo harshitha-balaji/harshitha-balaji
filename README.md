@@ -1,54 +1,45 @@
 # Hi, I'm Harshitha Balaji 👋
 
-**Data Science & Engineering Student @ IIT Palakkad**  
-**Deputy Technical Secretary @ IIT Palakkad**
+**Data Science & Engineering @ IIT Palakkad**  
+**Computer Vision • Robotics • Earth Observation**
 
-*Earth Observation • Robotics • Computer Vision*
+I'm interested in building practical software systems at the intersection of **data, perception, and real-world applications**. I enjoy exploring different approaches to engineering problems, with a focus on modular, reusable, and practical solutions.
 
-I'm interested in building software for Earth observation, robotics, computer vision, and machine learning. I enjoy exploring different approaches to solving engineering problems, with a focus on modular, reusable, and practical systems.
-
----
-
-## 🚀 Featured Projects
-
-### 🌿 IRIS
-An interactive remote sensing application for computing, visualizing, and exploring spectral indices from Sentinel-2 satellite imagery.
-
-### 🤖 LUCA
-A desktop application for robotic arm control with integrated computer vision and modular hardware interfaces.
-
-### 🎙️ Acoustic Activity Engine (AAE)
-A rule-based audio analysis pipeline for speaker activity tracking using acoustic feature matching.
-
-### 🎭 Sarcasm Sentiment Engine (SSE)
-A rule-based NLP pipeline for entity-focused sentiment analysis using heuristic coreference and sarcasm detection.
-
-### 🎯 Geometric Gatekeeper Engine (GGE)
-A rule-based computer vision pipeline for object tracking and directional counting.
+**Deputy Technical Affairs Secretary @ IIT Palakkad**
 
 ---
 
-## 🌱 Interests
+## Featured Projects
 
-- Earth Observation
-- Remote Sensing
-- Geospatial AI
-- Robotics
+### IRIS — Index-based Remote-sensing Intelligence System
+
+A modular Earth observation application for exploring and analyzing **Sentinel-2 satellite imagery** through natural language. IRIS integrates satellite imagery retrieval, spectral index computation, temporal change analysis, and interactive geospatial visualization.
+
+**Python • Sentinel-2 • STAC • Remote Sensing • Geospatial Analysis**
+
+### LUCA — Lightweight Unified Controller Assistant
+
+A modular desktop application for controlling and monitoring a **robotic manipulator** through a unified graphical interface. LUCA integrates computer vision, kinematic motion computation, mission control, and communication with the robotic controller.
+
+**Python • PyQt6 • OpenCV • NumPy**
+
+---
+
+## Interests
+
 - Computer Vision
+- Robotics
+- Earth Observation & Remote Sensing
+- Geospatial Systems
 - Machine Learning
+- Applied Software Engineering
 
 ---
 
 ## 🤝 Open To
 
-I'm always happy to connect with people interested in:
-
-- Earth Observation & Remote Sensing
-- Robotics & Computer Vision
-- Geospatial AI
-- Applied Machine Learning
-- Research and Engineering Projects
+I'm always interested in **research, internships, and collaborative engineering projects** involving computer vision, robotics, Earth observation, and intelligent systems.
 
 ---
 
-*"Always learning, always building."*
+*Always learning, always building.*
