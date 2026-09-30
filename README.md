@@ -29,8 +29,7 @@ A modular desktop application for controlling and monitoring a **robotic manipul
 
 - Computer Vision
 - Robotics
-- Earth Observation & Remote Sensing
-- Geospatial Systems
+- Earth Observation
 - Machine Learning
 - Applied Software Engineering
 
